@@ -1,0 +1,12 @@
+.login-form-container {
+    background-image: url('c:\Users\91761\Downloads\img.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* Additional styles if needed */
+  }
+  
